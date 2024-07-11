@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SoufianeElHoumy"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+Everyone+!+..&hearts;++;I'm+software+enginnering student,;Pioneering Tomorrow's+Technological Solutions,;with Today's Knowledge;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/SoufianeElHoumy"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+Everyone+!+..&hearts;++;I'm+software+enginnering+student,;Pioneering+Tomorrow's+Technological+Solutions,;with+Today's+Knowledge;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
